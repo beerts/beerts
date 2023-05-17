@@ -2,8 +2,8 @@
 
 
 
-🇧🇷: I’m from Brazil.
+##:brazil: I’m from Brazil.
 
-💻: I’m currently learning everything. 🐍
+##💻: I’m currently learning everything. 🐍
 
-:outbox_tray: 2023 Goals: create a new project and find a new job.
+##:outbox_tray: 2023 Goals: create a new project and find a new job.
