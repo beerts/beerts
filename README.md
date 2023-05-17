@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1&size=35&duration=6000&pause=200&color=13CAF7&background=000000&multiline=true&width=1001&lines=APRENDENDO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25)](https://git.io/typing-svg)
 
-<h1 align="center">Eai 👋, sou o Bernardo</h1>
-<h3 align="center">Estudante de programação</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
