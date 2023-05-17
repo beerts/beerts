@@ -1,9 +1,3 @@
 ![banner (1)](https://github.com/beerts/beerts/assets/133691749/77d7f617-65d1-4ccf-b93a-c169b11c9453)
 
-## SOU O BERNARDO TEIXEIRA
-
-🏡: Sou brasileiro.
-
-💻: No momento estou procurando aprender tudo que posso. 🐍
-
-📤: Meta 2023 : estudar e programar para conseguir um emprego/estagio.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1&size=35&duration=2000&pause=200&color=13CAF7&background=0C0C0C&multiline=true&width=1001&height=100&lines=%3CEstou+estudando+programa%C3%A7%C3%A3o+com+o+objetivo+de;conquistar+meu+primeiro+emprego%2Fest%C3%A1gio+%2F%3E;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88)](https://git.io/typing-svg)
