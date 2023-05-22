@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=7000&pause=1000&color=22781F&background=000000&vCenter=true&width=1000&height=55&lines=APRENDENDO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;LEARNING+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88)](https://git.io/typing-svg)
 
-<h1> <a href="https://beerts.github.io/apresentacao/" target="_blank" >→ → → → → → → → → → → → → EU ← ← ← ← ← ← ← ← ← ← ← ← ← </a></h1>
+<h1> <a href="https://beerts.github.io/apresentacao/" target="_blank" >→ → → → → → → → → → → → → EU ← ← ← ← ← ← ← ← ← ← ← ← ←</a></h1>
 
 
 
