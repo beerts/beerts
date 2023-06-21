@@ -1,4 +1,5 @@
-![banner (2)](https://github.com/beerts/beerts/assets/133691749/410b32d8-43f2-4342-84a5-f2279b7a2bc3)
+![3d-render-abstract-particle-design-background](https://github.com/beerts/beerts/assets/133691749/ca6e1d1a-39cd-4b95-90ca-28079418021e)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=7000&pause=1000&color=22781F&background=000000&vCenter=true&width=1000&height=55&lines=APRENDENDO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;LEARNING+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88)](https://git.io/typing-svg)
