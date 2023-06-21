@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Input+Mono&size=50&duration=7000&pause=1000&color=F7F7F7&background=000000&vCenter=true&width=1000&height=55&lines=APRENDENDO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;LEARNING+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88)](https://git.io/typing-svg)
 
-![3d-render-abstract-particle-design-background](https://github.com/beerts/beerts/assets/133691749/ca6e1d1a-39cd-4b95-90ca-28079418021e)
+![1773005](https://github.com/beerts/beerts/assets/133691749/d2cda3d7-827e-4aeb-acbd-e330589bcdf6)
+
 
 <h1> <a href="https://beerts.github.io/me/" target="_blank" >  ════════════════════ ME ═══════════════════ </a></h1>
 
