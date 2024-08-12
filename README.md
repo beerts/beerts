@@ -1,5 +1,8 @@
+![homem andando](https://github.com/user-attachments/assets/dfcc6446-2ad3-42f5-bf41-bd637056db4f)
+![homem andando](https://github.com/user-attachments/assets/5b650985-af9e-4169-814e-12391017d75c)
+![homem andando](https://github.com/user-attachments/assets/cdb1ba95-1b37-48cf-929a-ac39aa31ccea)
 
-![gifs-on-cli](https://github.com/user-attachments/assets/8cf80773-7654-4e9d-8a59-28a14f30504d)
+
 <h2 align="left">“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.<br> Arthur C. Clarke</h2>
 
 
