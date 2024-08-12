@@ -1,9 +1,5 @@
 
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Input+Mono&size=50&duration=7000&pause=1000&color=F7F7F7&vCenter=true&width=1000&height=55&lines=ESTUDANDO+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;STUDING+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88)](https://git.io/typing-svg)
-
 ![1773005](https://github.com/beerts/beerts/assets/133691749/d2cda3d7-827e-4aeb-acbd-e330589bcdf6)
 
 
