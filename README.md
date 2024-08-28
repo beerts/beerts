@@ -1,6 +1,5 @@
 ![homem andando](https://github.com/user-attachments/assets/dfcc6446-2ad3-42f5-bf41-bd637056db4f)
-![homem andando](https://github.com/user-attachments/assets/5b650985-af9e-4169-814e-12391017d75c)
-![homem andando](https://github.com/user-attachments/assets/cdb1ba95-1b37-48cf-929a-ac39aa31ccea)
+
 
 
 <h2 align="left">“Any sufficiently advanced technology is indistinguishable from magic”.<br> Arthur C. Clarke</h2>
