@@ -3,7 +3,7 @@
 ![homem andando](https://github.com/user-attachments/assets/cdb1ba95-1b37-48cf-929a-ac39aa31ccea)
 
 
-<h2 align="left">“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.<br> Arthur C. Clarke</h2>
+<h2 align="left">“Any sufficiently advanced technology is indistinguishable from magic”.<br> Arthur C. Clarke</h2>
 
 
 <h3 align="left">Tools:</h3>
