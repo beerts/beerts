@@ -1,4 +1,8 @@
-![homem andando](https://github.com/user-attachments/assets/dfcc6446-2ad3-42f5-bf41-bd637056db4f)
+![picmix com_2551208](https://github.com/user-attachments/assets/b0967372-bdb3-49a0-a81a-3ce20c6da32a)
+
+
+
+
 
 
 
