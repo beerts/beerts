@@ -1,4 +1,5 @@
-![Hi (1)](https://github.com/user-attachments/assets/222345c8-650a-4a41-9c87-5ae545ce8bf9)
+![Hi (1)](<https://github.com/user-attachments/assets/fa79f91e-e486-4d00-919d-8df50acb3f17>
+)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&pause=400&color=29F70C&background=FF000000&multiline=true&width=800&height=80&lines=%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22;Arthur+C.+Clarke)](https://git.io/typing-svg)
 
